@@ -1,0 +1,6 @@
+# Qt bindings — used by app_qt.py (the recommended UI).
+# Qt 6.4+ is required for QTextDocument.MarkdownDialectGitHub.
+PySide6>=6.4
+
+# The Tk version (app.py) and the small launcher (launcher.py) only use
+# the standard library, so nothing else is required there.
