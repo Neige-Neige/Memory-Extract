@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Neige-Neige
+# SPDX-License-Identifier: AGPL-3.0-or-later
+#
 """Pure-Python data layer shared between the Tkinter (`app.py`) and PySide6
 (`app_qt.py`) front-ends.
 

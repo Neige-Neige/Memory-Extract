@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Neige-Neige
+# SPDX-License-Identifier: AGPL-3.0-or-later
+#
 """Bundle Memory Extract into a Windows .exe via PyInstaller.
 
 Usage::

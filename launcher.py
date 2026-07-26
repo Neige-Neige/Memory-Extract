@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Neige-Neige
+# SPDX-License-Identifier: AGPL-3.0-or-later
+#
 """Tiny launcher for Memory Extract.
 
 Lets you pick between the Qt (PySide6) and Tk versions with one click.

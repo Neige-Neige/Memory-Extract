@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Neige-Neige
+# SPDX-License-Identifier: AGPL-3.0-or-later
+#
 """PySide6 front-end for Memory Extract.
 
 This milestone adds the multi-layer secondary filter so the perf delta
